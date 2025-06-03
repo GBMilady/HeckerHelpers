@@ -1,9 +1,7 @@
-  README - Kirt's Random Security Helpers
-
 Kirt's Random Security Helpers
 ==============================
 
-Welcome to **Kirt's Random Security Helpers**, a collection of scripts and tools designed to assist with various security-related tasks, including password cracking, vulnerability scanning, and more, because we all love to be lazy. 
+A collection of scripts and tools designed to assist with various security-related tasks, including password cracking, vulnerability scanning, and more, because we all love to be lazy. 
 This repository is likely to be all over the place, but it may help you at some point, for something. Expect very tailor-made things meant for very specific personal tasks.
 
 
